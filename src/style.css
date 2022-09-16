@@ -64,9 +64,9 @@ body{
     
 }
  .profile-txt h3{
-    font-size: 3rem;
-    letter-spacing: 0.1rem;
-    line-height: 1.2rem;
+    font-size: 3em;
+    letter-spacing: 0.1em;
+    line-height: 1.2em;
     font-weight: 600;
     color: #333;
     
@@ -76,7 +76,7 @@ body{
     position: relative;
     font-size: 1rem;
     font-weight: 500;
-    top: 10px;
+    top: -10px;
 
 }
 .contentBox{
