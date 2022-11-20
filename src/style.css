@@ -212,6 +212,7 @@ p{
     margin: 0;
     
 }
+
 .about-skills .box
 {
     position: relative;
@@ -254,4 +255,23 @@ color: #333;
     height: 5;
     
 }
- 
+@media screen and (orientation:portrait){
+    .text{
+        position: relative;
+        font-size: 2vw;
+        
+    }
+    .rightSide{
+        padding-left: 60px;
+    }
+}
+@media screen and (orientation:landscape){
+    .text{
+        position: relative;
+        font-size: 1vw;
+        
+    }
+    .rightSide{
+        padding-left: 60px;
+    }
+}
