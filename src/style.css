@@ -263,7 +263,11 @@ color: #333;
     }
     .rightSide{
         padding-left: 60px;
+        
     }
+   .container{
+    box-shadow: none;
+   }
 }
 @media screen and (orientation:landscape){
     .text{
